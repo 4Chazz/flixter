@@ -64,3 +64,15 @@ gem 'simple_form'
 
 #Add Devise gem
 gem 'devise'
+
+#Add Carrierwave for pics
+gem 'carrierwave', '~> 1.0'
+
+#Add Figaro to add environment variable 
+gem "figaro"
+
+#To get Amazon S3 to work with Heroku
+gem 'fog'
+
+#For picture sizing
+gem 'mini_magick'
