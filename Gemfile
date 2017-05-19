@@ -80,4 +80,5 @@ gem 'mini_magick'
 #To enable video upload
 gem 'carrierwave-aws'
 
-
+#Credit Card Tool
+gem 'stripe'
