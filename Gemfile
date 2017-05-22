@@ -82,3 +82,6 @@ gem 'carrierwave-aws'
 
 #Credit Card Tool
 gem 'stripe'
+
+#To Order Lessons
+gem 'ranked-model'
