@@ -85,3 +85,6 @@ gem 'stripe'
 
 #To Order Lessons
 gem 'ranked-model'
+
+#Special effects
+gem 'jquery-ui-rails'
