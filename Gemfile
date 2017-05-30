@@ -88,3 +88,6 @@ gem 'ranked-model'
 
 #Special effects
 gem 'jquery-ui-rails'
+
+#Fontawesome Icons
+gem 'font-awesome-rails'
